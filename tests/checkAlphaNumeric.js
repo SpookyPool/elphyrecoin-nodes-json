@@ -1,7 +1,7 @@
 'use strict'
 
 const assert = require('assert')
-const data = require('../turtlecoin-nodes.json')
+const data = require('../elphyrecoin-nodes.json')
 
 for (var i = 0; i < data.nodes.length; i++) {
   var node = data.nodes[i]
