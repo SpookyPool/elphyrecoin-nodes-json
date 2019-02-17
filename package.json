@@ -1,8 +1,8 @@
 {
-  "name": "turtlecoin-nodes-json",
+  "name": "elphyrecoin-nodes-json",
   "version": "0.0.1",
   "description": "json list of public daemons",
-  "main": "turtlecoin-nodes.json",
+  "main": "elphyrecoin-nodes.json",
   "directories": {
     "test": "tests"
   },
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-nodes-json.git"
+    "url": "git+https://github.com/elphyrecoin/elphyrecoin-nodes-json.git"
   },
   "keywords": [
-    "turtlecoin",
+    "elphyrecoin",
     "public",
     "nodes"
   ],
-  "author": "The TurtleCoin Developers",
+  "author": "The Elphyrecoin Developers",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-nodes-json/issues"
+    "url": "https://github.com/elphyrecoin/elphyrecoin-nodes-json/issues"
   },
-  "homepage": "https://github.com/turtlecoin/turtlecoin-nodes-json#readme"
+  "homepage": "https://github.com/elphyrecoin/elphyrecoin-nodes-json#readme"
 }
