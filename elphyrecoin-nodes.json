@@ -1,26 +1,8 @@
 {
   "nodes": [
     {
-      "name": "seed1 elphyrecoin.xyz",
-      "url": "seed1.elphyrecoin.xyz",
-      "port": 45501,
-      "ssl": false
-    },
-    {
-      "name": "seed2 elphyrecoin.xyz",
-      "url": "seed2.elphyrecoin.xyz",
-      "port": 45501,
-      "ssl": false
-    },
-    {
-      "name": "seed3 elphyrecoin.xyz",
-      "url": "seed3.elphyrecoin.xyz",
-      "port": 45501,
-      "ssl": false
-    },
-    {
-      "name": "seed4 elphyrecoin.xyz",
-      "url": "seed4.elphyrecoin.xyz",
+      "name": "94.211.137.5",
+      "url": "94.211.137.5",
       "port": 45501,
       "ssl": false
     }
